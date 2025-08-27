@@ -7,4 +7,4 @@ Esse projeto tem como objetivo armazenar todos os nossos códigos da disciplina 
 
 - Node > 16
 - React Native
-- Firese
+- Firebase
