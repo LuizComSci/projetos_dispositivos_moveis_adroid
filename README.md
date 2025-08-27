@@ -1,7 +1,10 @@
+# Dispositivos Moveis
 
-# PRIMEIRO PROJETO - AULA DISPOSITIVO MOVEIS
 
-Aprendendo a usar git - gitHub para versoes de aplicações
+Esse projeto tem como objetivo armazenar todos os nossos códigos da disciplina de programação para dispositivos moveis em android.
 
-Aula professor Julio Cartier
+## Funcionalidades
 
+- Node > 16
+- React Native
+- Firese
